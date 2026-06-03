@@ -4,5 +4,6 @@ public class exercicio2 {
         for (int i = 3; i <= 3; i++) ;
         IO.println("o maior é" + numeros);
 
+
         }
     }
